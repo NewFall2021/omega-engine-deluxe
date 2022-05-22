@@ -57,6 +57,7 @@ var mod = {
         ["Roboto", "css/fonts/roboto.css"],
         ["Comfortaa", "css/fonts/comfortaa.css"],
         ["Minecraft", "css/fonts/minecraft.css"],
+        ["Archivo Black", "css/fonts/ArchivoBlack.css"],
     ],
     saves: [
         ["Save 1", ""],
