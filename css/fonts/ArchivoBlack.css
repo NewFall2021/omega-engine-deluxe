@@ -1,0 +1,8 @@
+@font-face{
+    font-family: ArchivoBlack;
+    src: url('../../fonts/ArchivoBlack.otf');
+}
+
+:root{
+    --primary-font: ArchivoBlack
+}
