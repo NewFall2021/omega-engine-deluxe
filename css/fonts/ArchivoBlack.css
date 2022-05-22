@@ -1,8 +1,8 @@
 @font-face{
-    font-family: ArchivoBlack;
+    font-family: archivoblack;
     src: url('../../fonts/ArchivoBlack.otf');
 }
 
 :root{
-    --primary-font: ArchivoBlack
+    --primary-font: archivoblack
 }
