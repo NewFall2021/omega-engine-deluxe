@@ -3,15 +3,15 @@ Vue.component("news-ticker", {
     {
         return {
             messages: [
-                "modding.net",
-                "layer name moment",
-                "weird themes",
-                "hey, you could make a mod out of this",
+                "This is a deluxe version of Omega Engine.",
+                "Check in the Settings and you will see more features !",
+                "I can't say anymore lol",
+                "789345ut47wtrtjw4vuign8rg24itfnmedqki",
                 "when the imp- oh wrong mod",
                 "basically there is a thi- (softcapped)",
                 "incremental thing i guess",
                 "omega layers but steam engine",
-                "mod.js: powering layers",
+                "The numbers can be very big, it can get you to a lot of layers !!!",
                 "i ran out of words on my hard drive :("
             ],
             currentMessage: "",
