@@ -1,8 +1,8 @@
 @font-face{
-    font-family: VCR-EAS;
+    font-family: VCR;
     src: url('../../fonts/VcrEas-rX3K.ttf');
 }
 
 :root{
-    --primary-font: VCR-EAS
+    --primary-font: VCR
 }
