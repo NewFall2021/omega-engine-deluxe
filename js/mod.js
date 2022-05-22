@@ -1,7 +1,7 @@
 var mod = {
-    primaryName: "ω",
-    secondaryName: "Engine",
-    version: "1.0.0",
+    primaryName: "ωEngine",
+    secondaryName: "Deluxe Edition",
+    version: "0.1.0",
     engineVer: "0.2.3 P1", //DO NOT MODIFY
     debugMode: true,
     themes: [
@@ -37,6 +37,12 @@ var mod = {
             "01",
             "2345"
         ]],
+        ["Symbol-Deluxe",
+        [
+            'ϐϑϒϕϖϗϏ',
+            "ϙϛϝϟϡϘϚϜϞϠ",
+            "ϢϤϦϨ"
+        ]],
         ["Random",
         [
             Utils.createRandomWord(10, new Random(Date.now()).nextInt()),
@@ -57,6 +63,8 @@ var mod = {
         ["Save 2", "2"],
         ["Save 3", "3"],
         ["Save 4", "4"],
+        ["Save 5", "5"],
+        ["Save 6", "6"],
     ],
     debugClasses: []
 }
